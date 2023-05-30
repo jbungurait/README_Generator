@@ -1,37 +1,37 @@
-# A project
+# README Generator
 
 
   ## Description
 
-  alkjsdflkj
+  This is an app that generates Mark Down files for README based on User input.
 
   ## Table of Contents
 
-  - [Installation](#installation)
+  - Installation [#installation]
 
-  - [Usage](#usage)
+  - Usage [#usage]
 
-  - [Credits](#credits)
+  - Credits [#credits]
 
-  - [License](#license)
+  - License [#license]
 
-  - [Features](#features)
+  - Features [#features]
 
-  - [Contribution](#contribution)
+  - Contribution [#contribution]
 
-  - [Tests](#tests)
+  - Tests [#tests]
 
   ## Installation
 
-  asdflkjadf
+  Download the package from the Github link. Install the packages using `npm i`. 
 
   ## Usage
 
-  salkdjfiw
+  This application is used to easily generate a README.md file.
 
   ## Credits
 
-  ajsdfklsjdf
+  Inquirer, dotenv, and Node.
 
   ### [Github](https://github.com/jbungurait)
   ### [Email](mailto:jbungurait@gmail.com;)
@@ -39,18 +39,18 @@
 
   ## License
 
-  This project licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+  This project licensed under MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
   ## Features
 
-  aksjdfklw
+  This app feature and inquirer prompt that accepts user input. Based on the user input a mark down file is generated.
 
   ## Contribution
 
-  lasdlf
+  Email me at the link to give ideas for future development or issues.
 
   ## Tests 
 
-  aldflk
+  App will be tested locally before deployment. 
 
 
