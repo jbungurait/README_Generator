@@ -18,11 +18,6 @@ const  questions = [
     },
     {
         type: 'input',
-        name: 'tableOfContents',
-        message: 'What are the Contents of the README.md file?',
-    },
-    {
-        type: 'input',
         name: 'installation',
         message: 'What are the steps required to install your package?',
     },
