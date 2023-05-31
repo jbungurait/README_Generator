@@ -1,37 +1,37 @@
-# README Generator
+# Realtime README
 
 
   ## Description
 
-  This is an app that generates Mark Down files for README based on User input.
+  This is an intuitive app designed to generate professional markdown files fast.
 
   ## Table of Contents
 
-  - Installation [#installation]
+  - [Installation](#installation)
 
-  - Usage [#usage]
+  - [Usage](#usage)
 
-  - Credits [#credits]
+  - [Credits](#credits)
 
-  - License [#license]
+  - [License](#license)
 
-  - Features [#features]
+  - [Features](#features)
 
-  - Contribution [#contribution]
+  - [Contribution](#contribution)
 
-  - Tests [#tests]
+  - [Tests](#tests)
 
   ## Installation
 
-  Download the package from the Github link. Install the packages using `npm i`. 
+  To install, download the package, run `npm install` to download the packages. Use `npm run start` to initialize the app.
 
   ## Usage
 
-  This application is used to easily generate a README.md file.
+  This application will be used to quickly generate README files and save time on coding.
 
   ## Credits
 
-  Inquirer, dotenv, and Node.
+  This app uses Inquirer, dotenv, and node.
 
   ### [Github](https://github.com/jbungurait)
   ### [Email](mailto:jbungurait@gmail.com;)
@@ -43,14 +43,14 @@
 
   ## Features
 
-  This app feature and inquirer prompt that accepts user input. Based on the user input a mark down file is generated.
+  This app features a CLI prompt to guide the user through the process. Information gathered will be generated into markdown text. A `.env` file is used to protect information like email addresses.
 
   ## Contribution
 
-  Email me at the link to give ideas for future development or issues.
+  Send me and email with any thoughts, issues or ideas for future development.
 
   ## Tests 
 
-  App will be tested locally before deployment. 
+  This application will be tested locally before publishing.
 
 
